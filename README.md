@@ -1,7 +1,7 @@
 # InstaCartAnalysis
 
 Acting as an analyst for Instacart, I'm diving into their sales data to uncover hidden patterns. 
-My goal: refine their market segmentation strategies by conducting thorough exploratory analysis with Python. Stay tuned for insights that could redefine their approach and drive even better sales.
+My goal: to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 # Instacart Data Analysis Project
 ## Objective
